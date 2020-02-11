@@ -47,7 +47,7 @@
                     <div class="span4">
                         <!-- logo -->
                         <div class="logo">
-                            <h1><a href="/">IDM VS</a></h1>
+                            <h1><a href="{{ route('index')}}">IDM VS</a></h1>
                             <!-- <img src="assets/img/logo.png" alt="" /> -->
                         </div>
                         <!-- end logo -->
@@ -60,16 +60,16 @@
                                 <nav>
                                     <ul class="nav topnav">
                                         <li>
-                                            <a href="/">Главная</a>
+                                            <a href="{{ route('index')}}">Главная</a>
                                         </li>
                                         <li>
-                                            <a href="product">О продукте</a>
+                                            <a href="{{ route('product')}}">О продукте</a>
                                         </li>
                                         <li>
-                                            <a href="support">Поддержка</a>
+                                            <a href="{{ route('support')}}">Поддержка</a>
                                         </li>
                                         <li>
-                                            <a href="contact">Контакты</a>
+                                            <a href="{{ route('contact')}}">Контакты</a>
                                         </li>
                                     </ul>
                                 </nav>
