@@ -18,3 +18,4 @@ Route::get('/', 'HomeController@index')->name('index');
 Route::get('/product', 'HomeController@product')->name('product');
 Route::get('/support', 'HomeController@support')->name('support');
 Route::get('/contact', 'HomeController@contact')->name('contact');
+Route::get('/partner', 'HomeController@partner')->name('partner');

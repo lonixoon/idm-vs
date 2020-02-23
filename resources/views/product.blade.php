@@ -1,14 +1,15 @@
 @extends('layouts.app')
+
+@section('meta')
+    <title>О продукте | IDM WS</title>
+@endsection
+
 @section('content')
 
     <section id="subintro">
 
         <div class="container">
-            <div class="row">
-                <div class="span4">
-                    <h3><strong>О продукте</strong></h3>
-                </div>
-            </div>
+            <h3><strong>О продукте</strong></h3>
         </div>
 
     </section>
@@ -26,7 +27,7 @@
                         OpenICF.</p>
 
 
-                    <h4> П<strong>очему выбирают 1IDM?</strong></h4>
+                    <h4><strong>Почему выбирают 1IDM?</strong></h4>
 
 
                     <ul>
@@ -138,8 +139,7 @@
                         </li>
                     </ul>
 
-                    <h4><strong>Простое
-                            администрирование</strong></h4>
+                    <h4><strong>Простое администрирование</strong></h4>
 
                     <p>Инструменты для
                         диагностики, конфигурирования и сопровождения системы доступны в

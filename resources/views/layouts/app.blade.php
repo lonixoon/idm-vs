@@ -8,7 +8,6 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Adverts</title>
 @yield('meta')
 
 <!-- Styles -->
@@ -67,6 +66,9 @@
                                         </li>
                                         <li>
                                             <a href="{{ route('support')}}">Поддержка</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{ route('partner')}}">Партнёрам</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('contact')}}">Контакты</a>

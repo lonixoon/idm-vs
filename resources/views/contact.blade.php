@@ -1,13 +1,14 @@
 @extends('layouts.app')
+
+@section('meta')
+    <title>Контакты - IDM WS</title>
+@endsection
+
 @section('content')
     <section id="subintro">
 
         <div class="container">
-            <div class="row">
-                <div class="span4">
-                    <h3><strong>Контакты</strong></h3>
-                </div>
-            </div>
+            <h3><strong>Контакты</strong></h3>
         </div>
 
     </section>
