@@ -9,11 +9,10 @@
 
     <style>
         .margin-item {
-            margin-bottom: 40px;
+            margin-bottom: 30px;
         }
-
-        .list-style-type {
-            list-style-type: none;
+        h4  {
+            margin-bottom: 10px;
         }
     </style>
     <section id="subintro">

@@ -66,7 +66,7 @@
                             <p class="left">
                                 IDM VS использует методы безопасной разработки и тестирования ПО
                             </p>
-                            <a href="#" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Read more</a>
+                            <a href="/product" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                             <p class="left">
                                 IDM VS является одним из самых доступных решений на рынке.
                             </p>
-                            <a href="#" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Read more</a>
+                            <a href="/partner" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                             <p class="left">
                                 Техническая поддержка SLA с стандартами.
                             </p>
-                            <a href="#" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Read more</a>
+                            <a href="/support" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -115,8 +115,8 @@
                             <h2>Запросите расчет по специальной цене сайта</h2>
                         </div>
                         <div class="cta">
-                            <a class="btn btn-large btn-rounded btn-color" href="#">
-                                <i class="icon-chevron-right"></i> Call action</a>
+                            <a class="btn btn-large btn-rounded btn-color" href="tel:+79999999999">
+                                <i class="icon-chevron-right"></i> +7 (999) 999 9999</a>
                         </div>
                     </div>
                     <!-- end tagline -->
@@ -131,13 +131,10 @@
                             <li>
                                 <div class="testimonial_item">
                                     <p>
-                                        Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo
-                                        ligula
-                                        eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-                                        montes.
+                                        Ачуметь как круто!
                                     </p>
-                                    <span class="author">Johny doe</span>
-                                    <span class="occupation">Graphic and HTML Web Designer</span>
+                                    <span class="author">Жанна Польская</span>
+                                    <span class="occupation">Директор</span>
                                     <!-- end testmonial -->
                                 </div>
                             </li>
@@ -167,7 +164,7 @@
                     </div>
                     <div class="blank"></div>
 
-                    <h4>Our satisfied clients</h4>
+                    <h4>Наши портнеры</h4>
                     <ul class="clients">
                         <li>
                             <a href="#">

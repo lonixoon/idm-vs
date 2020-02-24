@@ -62,8 +62,7 @@
                 </div>
                 <div class="span8">
                     <div class="map-container">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452"
-                                width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2290.5020624922417!2d82.93524146088292!3d54.9642941710791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x42dfe7a5a21d9857%3A0x71da27c862d3649a!2z0YPQuy4g0JLQsNGC0YPRgtC40L3QsCwgMTA3LCDQndC-0LLQvtGB0LjQsdC40YDRgdC6LCDQndC-0LLQvtGB0LjQsdC40YDRgdC60LDRjyDQvtCx0LsuLCA2MzAwMjQ!5e0!3m2!1sru!2sru!4v1582524566968!5m2!1sru!2sru" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                     </div>
                     <div class="spacer30">
                     </div>
